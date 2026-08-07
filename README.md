@@ -33,7 +33,8 @@ Full-stack developer building things with **Vue**, **Laravel**, and **Ruby on Ra
 
 ## 📫 Find Me
 
-[Your links here — LinkedIn, Twitter, portfolio, etc.]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-beri%C3%B1a-b6a615166/)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berinaangelo.netlify.app/)
 
 ---
 
