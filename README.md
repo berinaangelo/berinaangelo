@@ -19,6 +19,8 @@ Full-stack developer building things with **Vue**, **Laravel**, and **Ruby on Ra
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=berinaangelo&custom_title=My%20Stats&include_all_commits=true&theme=tokyonight)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=berinaangelo&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ## 🚀 What I'm Building
