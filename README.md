@@ -26,7 +26,11 @@ Full-stack developer building things with **Vue**, **Laravel**, and **Ruby on Ra
 - Solo projects, full-stack apps, and things that work
 - Sometimes clean code, sometimes "it works" — always shipping; but always leaning towards ruthless simplicity in the codes i've been working on
 
-![Snake animation](https://raw.githubusercontent.com/berinaangelo/berinaangelo/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berinaangelo/berinaangelo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berinaangelo/berinaangelo/output/github-snake.svg" />
+  <img alt="Jake the snake robertz" src="https://raw.githubusercontent.com/berinaangelo/berinaangelo/output/github-snake.svg" />
+</picture>
 
 ---
 
