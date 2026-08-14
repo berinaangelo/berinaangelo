@@ -8,6 +8,7 @@ Full-stack developer building things with **Vue**, **Laravel**, and **Ruby on Ra
 
 - **Frontend:** Vue.js, Inertia.js, Tailwind CSS
 - **Backend:** Laravel, Ruby on Rails
+- **Others:** Wordpress, Shopify
 - **Learning:** Go (coming soon to a repo near you)
 
 ---
