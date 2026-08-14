@@ -15,7 +15,7 @@ Full-stack developer building things with **Vue**, **Laravel**, and **Ruby on Ra
 ## 📊 My Stats
 
   
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=berinaangelo&layout=compact&hide_values=true&theme=dark)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=berinaangelo&layout=compact&langs_count=10&theme=tokyonight)
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=berinaangelo&custom_title=My%20Stats&include_all_commits=true&theme=tokyonight)
 
